@@ -1,0 +1,27 @@
+$bigfontfamily: Georgia, "Times New Roman", Times, serif;
+
+$defaultfontfamily: Arial, Helvetica, sans-serif;
+
+h3, h2, h1 {
+    font-family: $bigfontfamily;
+}
+
+p, a, li {
+    font-family: $defaultfontfamily;
+    font-size: 1.6rem;
+}
+
+h1 {
+    font-size: 4.8rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3.2rem;
+    font-weight: bold;
+    color: #5f9ea0;
+}
+
+h3 {
+    font-size: 2rem;
+}

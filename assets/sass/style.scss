@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url("../images/dust_scratches.png")
+}
+
+@import 'fonts';
+
+@import 'layout';
+
+@import 'navbar';
+
+#filephoto {
+    max-width: 240px;
+    float: left;
+    margin: 12px;
+}
+
+.profile-text {
+    margin: 12px;
+}
+
+.header-text {
+    padding-top: 24px;
+}
