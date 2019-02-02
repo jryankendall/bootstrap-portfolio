@@ -7,11 +7,15 @@ body {
     background-image: url("../images/dust_scratches.png")
 }
 
+$teal: #5f9ea0;
+
 @import 'fonts';
 
 @import 'layout';
 
 @import 'navbar';
+
+@import 'projects';
 
 #filephoto {
     max-width: 240px;
