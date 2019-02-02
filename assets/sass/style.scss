@@ -4,6 +4,7 @@ html {
 }
 
 body {
+    background-color: #ddd;
     background-image: url("../images/dust_scratches.png")
 }
 
@@ -16,6 +17,8 @@ $teal: #5f9ea0;
 @import 'navbar';
 
 @import 'projects';
+
+@import 'contact';
 
 #filephoto {
     max-width: 240px;
